@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyVlc</string>
+    <string name="invalid_location">无法播放位置 %1$s。</string>
+    <string name="validation">是否确定?</string>
+    <string name="confirm_delete">是否删除文件“%1$s”?</string>
+
+</resources>
